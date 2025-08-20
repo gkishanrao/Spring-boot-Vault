@@ -23,3 +23,5 @@ Similar as below
       Successfully Login 
 <img width="1216" height="491" alt="image" src="https://github.com/user-attachments/assets/ad500029-c6ce-4997-8c00-d9c5c58f1de3" />
 
+vault kv get secret/credentials
+ vault kv put secret/credentials username=xxxxxxxxxxx password=xxxxxxx
